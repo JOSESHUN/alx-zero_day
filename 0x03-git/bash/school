@@ -1,1 +1,2 @@
-echo "The school is openi!"
+#!/bin/bash
+echo "School"
